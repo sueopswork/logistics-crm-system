@@ -46,7 +46,7 @@ Watch the full walkthrough here:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard_.png)
 
 ### Dashboard (Detailed)
 ![Dashboard](./screenshots/dashboardprt2.png)
