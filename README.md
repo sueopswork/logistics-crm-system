@@ -46,16 +46,16 @@ Watch the full walkthrough here:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard_.png)
+![Dashboard](./screenshots/dashboard.png.png)
 
 ### Dashboard (Detailed)
-![Dashboard](./screenshots/dashboardprt2.png)
+![Dashboard](./screenshots/dashboardprt2.png.png)
 
 ### Automation Example
-![Automation](./screenshots/automation1.png)
+![Automation](./screenshots/automation1.png.png)
 
 ### Automation Config
-![Automation](./screenshots/automationConfig.png)
+![Automation](./screenshots/automationConfig.png.png)
 
 
 ## Outcome
