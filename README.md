@@ -45,17 +45,24 @@ Watch the full walkthrough here:
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](./screenshots/dashboard.png.png)
+### Pipeline View
+![Pipeline](./Screenshots/pipeline.png.png)
 
-### Dashboard (Detailed)
-![Dashboard](./screenshots/dashboardprt2.png.png)
+### Deals Table
+![Deals](./Screenshots/deals.png.png)
+
+### Dashboard
+![Dashboard](./Screenshots/dashboard.png.png)
+
+### Dashboard Detailed
+![Dashboard](./Screenshots/dashboardprt2.png.png)
 
 ### Automation Example
-![Automation](./screenshots/automation1.png.png)
+![Automation](./Screenshots/automation1.png.png)
 
 ### Automation Config
-![Automation](./screenshots/automationConfig.png.png)
+![Automation](./Screenshots/automationConfig.png.png)
+
 
 
 ## Outcome
