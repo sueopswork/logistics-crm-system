@@ -1,38 +1,39 @@
-# Logistics CRM System (Airtable)
+# End-to-End CRM System with Automation & SLA Tracking (Airtable + Salesforce)
 
 ## Overview
-This project is a fully functional CRM system built in Airtable to simulate a real-world B2B sales pipeline.
+This project is a fully functional CRM system designed to simulate a real-world B2B sales pipeline.
 
-The goal was to create a structured system that reduces manual work, improves visibility, and ensures no sales opportunity is missed.
+It was built to eliminate manual tracking, improve pipeline visibility, and ensure no revenue opportunities are missed through structured data and automation.
 
 ---
 
 ## Key Features
 
-- Lead, company, and deal tracking
-- Structured pipeline with clear deal stages
-- Automated follow-ups triggered by deal stage
-- SLA tracking to identify overdue deals
-- Dashboard for pipeline visibility and performance
+- Lead, company, and deal tracking with relational data structure
+- Clear pipeline stages reflecting a real sales process
+- Automated follow-ups triggered by deal stage changes
+- SLA tracking to identify and flag overdue deals
+- Dashboard for pipeline visibility and performance monitoring
 
 ---
 
 ## What This Solves
 
-Many small businesses track leads manually or use messy systems, leading to:
-- Lost leads
-- Missed follow-ups
-- Poor visibility on deals
+Many businesses rely on spreadsheets or inconsistent systems, which leads to:
 
-This system solves that by creating a clear, automated pipeline.
+- Lost or untracked leads
+- Missed follow-ups
+- Lack of visibility on deal progress
+
+This system solves that by introducing a structured, automated CRM workflow that keeps everything organised and actionable.
 
 ---
 
 ## Tools Used
 
-- Airtable
-- Salesforce (for additional automation practice)
-- Google Sheets (data structuring)
+- Airtable (CRM build + automation logic)
+- Salesforce (workflow + automation practice)
+- Google Sheets (data cleaning and structuring)
 
 ---
 
@@ -69,7 +70,8 @@ Watch the full walkthrough here:
 
 This project demonstrates the ability to:
 
-- Design CRM systems
-- Structure relational data
-- Build automation workflows
-- Improve operational efficiency
+- Design and structure CRM systems
+- Model relational data effectively
+- Build automation workflows to reduce manual work
+- Track SLAs and prioritise pipeline activity
+- Improve operational efficiency and visibility
