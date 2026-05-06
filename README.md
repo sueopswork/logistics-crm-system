@@ -3,13 +3,13 @@
 ## Overview
 This project is a fully functional CRM system designed to simulate a real-world B2B sales pipeline.
 
-It was built to eliminate manual tracking, improve pipeline visibility, and ensure no revenue opportunities are missed through structured data and automation.
+It was built to eliminate manual tracking, improve pipeline visibility and ensure no revenue opportunities are missed through structured data and automation.
 
 ---
 
 ## Key Features
 
-- Lead, company, and deal tracking with relational data structure
+- Lead, company and deal tracking with relational data structure
 - Clear pipeline stages reflecting a real sales process
 - Automated follow-ups triggered by deal stage changes
 - SLA tracking to identify and flag overdue deals
