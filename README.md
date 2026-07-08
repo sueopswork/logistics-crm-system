@@ -1,4 +1,4 @@
-# End-to-End CRM System with Automation & SLA Tracking (Airtable + Salesforce)
+# End-to-End CRM System with Automation & SLA Tracking (Airtable)
 
 ## Overview
 This project is a fully functional CRM system designed to simulate a real-world B2B sales pipeline.
